@@ -5,4 +5,8 @@
       - name: display a message
         debug:
           msg: "Hello World"
+      
+      - name: it is second tasks  
+        debug:
+          msg: "Hello World again"    
     
